@@ -1,0 +1,17 @@
+item.ad:angelWings.name=Winged Backpack
+item.ad:angelBoots.name=Incombustible Boots
+item.ad:wingComponent.name=Wing
+item.ad:wingComponentBack.name=Angelic Chestplate
+item.ad:mortarAndPestle.name=Mortar and Pestle
+item.ad:ironDust.name=Iron Dust
+item.ad:goldDust.name=Gold Dust
+item.ad:angelDust.name=Pure Blend
+item.ad:pureIngot.name=Purified Metal
+item.ad:holyFabric.name=Nanomesh
+item.ad:stoneBowl.name=Stone Bowl
+item.ad:infernoTablet.name=Inferno Tablet
+item.ad:featherDust.name=Feather Dust
+item.ad:silicaDust.name=Silica Dust
+item.ad:quartzDust.name=Quartz Dust
+itemGroup.angelicDevices=Angelic Devices
+enchantment.ad:contagious=Contagious

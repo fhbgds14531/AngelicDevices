@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ad",
+  "name": "Angelic Devices",
+  "description": "Bringing angelic abilities to Minecraft.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authors": ["fhbgds14531"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
